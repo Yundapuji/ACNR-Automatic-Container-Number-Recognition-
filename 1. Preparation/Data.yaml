@@ -1,0 +1,4 @@
+train: Gambar/Train
+val: Gambar/Test
+nc: 1
+names: ['container-number']

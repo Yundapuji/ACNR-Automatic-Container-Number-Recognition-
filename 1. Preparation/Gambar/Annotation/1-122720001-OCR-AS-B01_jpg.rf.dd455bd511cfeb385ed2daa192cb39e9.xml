@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1-122720001-OCR-AS-B01_jpg.rf.dd455bd511cfeb385ed2daa192cb39e9.jpg</filename>
+	<path>1-122720001-OCR-AS-B01_jpg.rf.dd455bd511cfeb385ed2daa192cb39e9.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>container-number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>304</xmin>
+			<xmax>471</xmax>
+			<ymin>168</ymin>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>
