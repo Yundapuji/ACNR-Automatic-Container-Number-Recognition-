@@ -5,4 +5,4 @@ ACNR merupakan sistem yang dapat melakukan detection dan recognition pada nomor 
 1. Buat folder baru
 
 2. Membuat virtual environment dan activate environment tersebut
-    - ```pip install vitualenv
+    - ```python pip install vitualenv
