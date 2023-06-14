@@ -28,9 +28,11 @@ ACNR merupakan sistem yang dapat melakukan detection dan recognition pada nomor 
 7. Masuk di path folder 2. Prediction ```cd 2. Prediction``` dan membuka jupyter notebook
     - ```jupyter notebook```
 
-8. Buka Notebook [00. Predictions.ipynb]("https://github.com/Yundapuji/ACNR-Automatic-Container-Number-Recognition-/blob/main/2.%20Prediction/00.%20Predictions.ipynb")
+8. Buka Notebook [00. Predictions.ipynb](URL "https://github.com/Yundapuji/ACNR-Automatic-Container-Number-Recognition-/blob/main/2.%20Prediction/00.%20Predictions.ipynb")
 
-9. Untuk file input yang akan dideteksi dapat dipilih pada folder [TestModel](URL "tooltip")
+9. Untuk file input yang akan dideteksi dapat dipilih pada folder [TestModel](URL "https://github.com/Yundapuji/ACNR-Automatic-Container-Number-Recognition-/tree/5a25cc214fd85b3feeadd459c581bf751a42f840/2.%20Prediction/TestModel")
+
+
 
 ⚠️ **Penting:** Jika melakukan deteksi pada gambar, program ini dapat melakukan deteksi pada gambar dengan size dibawah 1920 X 1080. Gambar diatas size tersebut akan otomatis di crop. 
      
