@@ -5,8 +5,8 @@ ACNR merupakan sistem yang dapat melakukan detection dan recognition pada nomor 
 1. Buat folder baru
 
 2. Membuat virtual environment dan activate environment tersebut
-    - ``` bash
-    
-    pip install vitualenv
-    
-    ```
+    - ``` bash pip install vitualenv ```
+tesss
+```
+bash pip install vitualenv
+```
