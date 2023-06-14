@@ -1,7 +1,7 @@
 # ACNR-Automatic-Container-Number-Recognition-
 ACNR merupakan sistem yang dapat melakukan detection dan recognition pada nomor box kendaraan kontainer. Sistem ini diciptakan dengan menggunakan YOLO v5 dan easyocr untuk ekstraksi teks dari gambar dan secara real time. 
 
-**Program ini dibuat dengan menggunakan python version 3.8 pada operating system windows serta dijalankan pada jupyter notebook**
+:loudspeaker: **Program ini dibuat dengan menggunakan python version 3.8 pada operating system windows serta dijalankan pada jupyter notebook**
 
 ## Langkah Menjalankan Program
 1. Buat folder baru
@@ -30,7 +30,9 @@ ACNR merupakan sistem yang dapat melakukan detection dan recognition pada nomor 
 
 8. Buka Notebook [00. Predictions.ipynb](URL "https://github.com/Yundapuji/ACNR-Automatic-Container-Number-Recognition-/blob/main/2.%20Prediction/00.%20Predictions.ipynb")
 
-9. Untuk file input yang akan dideteksi dapat dipilih pada folder [TestModel](URL "https://github.com/Yundapuji/ACNR-Automatic-Container-Number-Recognition-/tree/5a25cc214fd85b3feeadd459c581bf751a42f840/2.%20Prediction/TestModel")
+9. Ganti kernel dengan nama_virtual_environment yang dibuat sebelumnya --> Kernel --> Change kernel
+
+10. Untuk file input yang akan dideteksi dapat dipilih pada folder [TestModel](URL "https://github.com/Yundapuji/ACNR-Automatic-Container-Number-Recognition-/tree/5a25cc214fd85b3feeadd459c581bf751a42f840/2.%20Prediction/TestModel")
 
 
 
