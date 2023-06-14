@@ -11,9 +11,9 @@ ACNR merupakan sistem yang dapat melakukan detection dan recognition pada nomor 
 2. Clone repo ini : https://github.com/Yundapuji/ACNR-Automatic-Container-Number-Recognition-
 
 3. Buat folder 'Model' di dalam folder 2. Prediction
-   ![detectGambar1](Output/strukturFolder1.jpg)
 
 4. Di dalam folder Model download folder weights : https://drive.google.com/drive/folders/1-ch3crLhyg2mKRWh7zl17bUHvE-IvV_z?usp=sharing 
+   ![detectGambar1](Output/strukturFolder1.jpg)
 
 5. Membuat virtual environment dan activate environment tersebut
     - Masuk di path folder yang telah dibuat
@@ -31,12 +31,12 @@ ACNR merupakan sistem yang dapat melakukan detection dan recognition pada nomor 
 7. Masuk di path folder 2. Prediction ```cd 2. Prediction``` dan membuka jupyter notebook
     - ```jupyter notebook```
 
-8. Buka Notebook ![00. Predictions.ipynb](2. Prediction/00. Predictions.ipynb)
+8. Buka Notebook [00. Predictions.ipynb](URL"https://github.com/Yundapuji/ACNR-Automatic-Container-Number-Recognition-/blob/3710947336d71ac270e2b686f89a264fab6eb4f5/2.%20Prediction/00.%20Predictions.ipynb")
 
 9. Ganti kernel dengan nama_virtual_environment yang dibuat sebelumnya --> Kernel --> Change kernel
    ![detectGambar1](Output/kernel1.jpg)
 
-10. Untuk file input yang akan dideteksi dapat dipilih pada folder [TestModel](2. Prediction/TestModel)
+10. Untuk file input yang akan dideteksi dapat dipilih pada folder [TestModel](URL"https://github.com/Yundapuji/ACNR-Automatic-Container-Number-Recognition-/tree/3710947336d71ac270e2b686f89a264fab6eb4f5/2.%20Prediction/TestModel")
 
 
 
