@@ -2,7 +2,15 @@ numpy
 pandas
 matplotlib
 opencv-python
+opencv-python-headless
 jupyter
-labelImg
 easyocr
-ipykernel
+os
+yaml
+re
+django
+pillow
+scikit
+scipy
+torch
+torchvision
